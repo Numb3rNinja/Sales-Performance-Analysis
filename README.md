@@ -66,3 +66,11 @@ The dataset for this project consists of a single table with 10,000 rows, captur
 **Deliverables**  
 - Power BI (.pbix) file with the dashboard.  
 - Documentation of creation steps.  
+
+
+# Executive Summary
+## Overview of Findings
+Sales in 2017—and especially in 2018—were substantially higher than in 2015 and 2016. Many months in 2018 saw sales that doubled or even tripled their 2015 counterparts. November 2018 marked the peak in monthly sales at \$117,938, while February 2015 recorded the lowest monthly sales at \$4,520. Despite being a strong year overall, February 2018 stands out as a notable low point.
+All three product categories contributed significantly to overall sales, with Technology maintaining a slight lead. Consumer sales were the primary driver, accounting for approximately half of all revenue by segment. Revenue was heavily concentrated in the Technology (Phones) and Furniture (Chairs, Tables) sub-categories, while sub-categories within Office Supplies made up the lowest performers.
+Although California led in total sales volume, New York and Washington generated significantly higher revenue per transaction.
+
