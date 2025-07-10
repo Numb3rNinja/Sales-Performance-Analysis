@@ -74,3 +74,4 @@ Sales in 2017—and especially in 2018—were substantially higher than in 2015 
 All three product categories contributed significantly to overall sales, with Technology maintaining a slight lead. Consumer sales were the primary driver, accounting for approximately half of all revenue by segment. Revenue was heavily concentrated in the Technology (Phones) and Furniture (Chairs, Tables) sub-categories, while sub-categories within Office Supplies made up the lowest performers.
 Although California led in total sales volume, New York and Washington generated significantly higher revenue per transaction.
 
+![Image](https://github.com/user-attachments/assets/4de12f97-f9be-4306-97a6-b7faee9d3626)
