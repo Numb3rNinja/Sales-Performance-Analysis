@@ -125,4 +125,6 @@ The geographic distribution of sales reveals extreme concentration and critical 
  
 California’s dominance likely stems from population density, B2B corporate hubs (e.g., technology sectors), and mature e-commerce adoption, cementing it as the foundation of national strategy. New York and Washington exemplify the premium market model, where high-value transactions amplify revenue impact – a template for targeted expansion in similar affluent, commercialized regions. However, the **high-AOV/low-volume paradox** in states like West Virginia and Wyoming points to untapped corporate or bulk-purchasing demand that warrants focused customer acquisition efforts. Conversely, Texas and the Dakotas represent volume-oriented but margin-challenged markets, where strategies to boost basket size (e.g., bundled offerings, loyalty incentives) are essential. The extreme revenue concentration necessitates a dual approach: deepening penetration in core states while systematically diagnosing barriers in low-contribution regions – whether logistical, competitive, or sales-model related – to unlock balanced national growth.
 
-![Image](https://github.com/user-attachments/assets/7727875f-07b0-4593-822f-a66fc5a4ca7e)
+![Image](https://github.com/user-attachments/assets/7727875f-07b0-4593-822f-a66fc5a4ca7e) 
+
+
