@@ -41,18 +41,18 @@ The dataset for this project consists of a single table with 10,000 rows, captur
 
 **Key Early Checks**:  
 1. **Data Type Validation**:  
-   - Confirm **Order Date** and **Ship Date** are Date type, **Sales** is Decimal Number or Currency, and **Row ID**, **Order ID**, **Customer ID**, **Product ID**, **Postal Code** are Text in **Data View** or **Modeling** > **Properties**. Correct any mismatches.  
+   - Confirming **Order Date** and **Ship Date** are Date type, **Sales** is Decimal Number or Currency, and **Row ID**, **Order ID**, **Customer ID**, **Product ID**, **Postal Code** are Text in **Data View** or **Modeling** > **Properties**. Correcting any mismatches.  
 2. **Missing Values**:  
-   - Check **Sales**, **Order Date**, **Region**, **Category**, and **Segment** for nulls or blanks in **Data View** or **Power Query**. Replace blanks with “Unknown” for non-critical fields (e.g., Segment) using **Transform Data** > **Replace Values**. Flag critical missing data (e.g., Sales) for correction.  
+   - Checking **Sales**, **Order Date**, **Region**, **Category**, and **Segment** for nulls or blanks in **Data View** or **Power Query**. Replacing blanks with “Unknown” for non-critical fields (e.g., Segment) using **Transform Data** > **Replace Values**. Flaging critical missing data (e.g., Sales) for correction.  
 3. **Duplicate Rows**:  
-   - Use **Row ID** or **Order ID** in **Power Query** to identify duplicates (**Group By** or **Remove Duplicates**). Remove duplicates if they inflate sales totals.  
+   - Using **Row ID** or **Order ID** in **Power Query** to identify duplicates (**Group By** or **Remove Duplicates**). Removing duplicates if they inflate sales totals.  
 4. **Outlier Detection**:  
-   - Sort **Sales** in **Data View** to check for anomalies (e.g., negative or excessively high values). Investigate and correct errors (e.g., refunds, data entry issues) in **Power Query**.  
+   - Sorting **Sales** in **Data View** to check for anomalies (e.g., negative or excessively high values). Investigating and correcting errors (e.g., refunds, data entry issues) in **Power Query**.  
 5. **Date Consistency**:  
-   - Verify **Order Date** range in **Data View** (min/max dates). Flag and correct outliers (e.g., future dates like 2050) in **Power Query**.  
+   - Verifying **Order Date** range in **Data View** (min/max dates). Flag and correct outliers (e.g., future dates like 2050) in **Power Query**.  
 6. **Geographic Consistency**:  
-   - Ensure **Region**, **State**, and **City** have consistent naming (e.g., no “West” vs. “Wst”) in **Power Query**. Set **Data Category** to **Place** for map visuals in **Modeling**.  
-
+   - Ensuring **Region**, **State**, and **City** have consistent naming (e.g., no “West” vs. “Wst”) in **Power Query**.
+     
 **Stakeholders**  
 - **Sales Managers/Executives**: Monitor performance and set targets.  
 - **Business Analysts**: Inform forecasting and planning.  
@@ -70,7 +70,7 @@ The dataset for this project consists of a single table with 10,000 rows, captur
 
 # Executive Summary
 ## Overview of Findings
-Sales in 2017—and especially in 2018—were substantially higher than in 2015 and 2016. Many months in 2018 saw sales that doubled or even tripled their 2015 counterparts. November 2018 marked the peak in monthly sales at \$117,938, while February 2015 recorded the lowest monthly sales at \$4,520. Despite being a strong year overall, February 2018 stands out as a notable low point.
+Sales in 2017—and especially in 2018—were substantially higher than in 2015 and 2016. Many months in 2018 saw sales that doubled or even tripled their 2015 counterparts. November 2018 marked the peak in monthly sales at $117,938, while February 2015 recorded the lowest monthly sales at $4,520. Despite being a strong year overall, February 2018 stands out as a notable low point.
 All three product categories contributed significantly to overall sales, with Technology maintaining a slight lead. Consumer sales were the primary driver, accounting for approximately half of all revenue by segment. Revenue was heavily concentrated in the Technology (Phones) and Furniture (Chairs, Tables) sub-categories, while sub-categories within Office Supplies made up the lowest performers.
 Although California led in total sales volume, New York and Washington generated significantly higher revenue per transaction.
 
