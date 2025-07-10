@@ -127,4 +127,4 @@ California’s dominance likely stems from population density, B2B corporate hub
 
 ![Image](https://github.com/user-attachments/assets/7727875f-07b0-4593-822f-a66fc5a4ca7e) 
 
-
+![Image](https://github.com/user-attachments/assets/9bb6bb78-e838-487a-8ed9-29048d04d991)
