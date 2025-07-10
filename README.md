@@ -7,7 +7,7 @@ This project was undertaken to address the challenge of converting transactional
 **Key Insights and Recommendations Focused On:**
 1. **Sales Trends Over Time**:  
    - **Purpose**: Analysing sales patterns over months or quarters (using Order Date and Sales) to identify seasonal trends, peak periods, and potential demand shifts.  
-   - **Business Value**: Informs inventory planning, promotional scheduling, and staffing adjustments to capitalize on high-demand periods and mitigate low-performance seasons.  
+   - **Business Value**: Informs inventory planning, promotional scheduling, and staffing adjustments to capitalize on high-demand periods and mitigate low-performance seasons. 
 
 2. **Regional Sales Performance**:  
    - **Purpose**: Evaluating sales distribution across regions (Region, State, City) to identify top-performing areas and regions requiring intervention.  
