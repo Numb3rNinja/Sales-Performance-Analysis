@@ -2,7 +2,7 @@
 
 ## Project Background
 In today’s fast-paced retail and business environment, organizations manage vast volumes of transactional data across diverse product categories, geographic regions, and customer segments. Understanding sales performance is critical for driving revenue growth, optimizing resource allocation, and enhancing strategic decision-making. The ability to transform raw sales data into actionable insights enables businesses to identify high-performing products, target underperforming regions, and tailor strategies to specific customer segments, ultimately strengthening their competitive edge.
-This project was undertaken to address the challenge of converting transactional sales data into a concise, actionable business intelligence tool. By leveraging Power BI, the project aims to create an interactive sales performance dashboard that provides clear, data-driven insights to support operational efficiency, strategic planning, and stakeholder communication. The dashboard, limited to six visuals, focuses on delivering high-impact insights to maximize business outcomes. 
+This project was undertaken to address the challenge of converting transactional sales data into a concise, actionable business intelligence tool. By leveraging Power BI, the project aims to create an interactive sales performance dashboard that provides clear, data-driven insights to support operational efficiency, strategic planning, and stakeholder communication. The dashboard, limited to six visuals, focuses on delivering high-impact insights to maximize business outcomes.  
 
 **Key Insights and Recommendations Focused On:**
 1. **Sales Trends Over Time**:  
