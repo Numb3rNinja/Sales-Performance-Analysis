@@ -64,7 +64,7 @@ The dataset for this project consists of a single table with 10,000 rows, captur
 - **Exclusions**: Metrics beyond sales (e.g., profit).  
 
 **Deliverables**  
-- Power BI (.pbix) file with the dashboard.  
+- Power BI [sales performance analysis.pbix](https://github.com/Numb3rNinja/Sales-Performance-Analysis-Dashboard.git) file with the dashboard.  
 - Documentation of creation steps.  
 
 
